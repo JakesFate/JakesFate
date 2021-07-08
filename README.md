@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/JakesFate)
+[![Spotify](https://spotify-now-playing-rouge.vercel.app/api/spotify)](https://open.spotify.com/user/JakesFate)
 
 ---
 
