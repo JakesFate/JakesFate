@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://spotify-now-playing-rouge.vercel.app/api/spotify)](https://open.spotify.com/user/JakesFate)
+[![Spotify](https://spotify-now-playing-99ba5nmhc-jakesfate.vercel.app/api/spotify-playing)](https://open.spotify.com/user/JakesFate)
 
 ---
 
