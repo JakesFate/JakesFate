@@ -3,7 +3,7 @@
 ## I'm a Self-taught Developer  
 
 - 👨‍💻 I’m currently working on web development technologies like TypeScript, React, Vue, etc.
-- 📚 I’m currently learning everything about Fastify and Pyston 😅
+- 📚 I’m currently researching GhostCMS and Strapi
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 ---
